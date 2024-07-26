@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 list_of_files = [
     ".github/workflows/.gitkeep",
     f"src/__init__.py",
-    f"src/conponents/__init__.py",
+    f"src/components/__init__.py",
     f"src/components/data_ingestion.py",
     f"src/components/data_cleaning.py",
     f"src/components/data_tokenization.py",
@@ -23,7 +23,6 @@ list_of_files = [
     f"app/routes.py",
     f"app/pipeline.py",
     f"templets/index.html",
-    "models",
     "data",
     "requirements.txt",
     "setup.py",
