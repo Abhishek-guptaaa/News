@@ -1,0 +1,13 @@
+seaborn
+matplotlib
+mongo
+Flask
+tensorflow
+nltk
+pandas
+scikit-learn
+numpy
+joblib
+python-dotenv
+wordcloud
+-e.
